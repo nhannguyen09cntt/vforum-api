@@ -1,6 +1,7 @@
 # Project Layout
 API is designed with Clean Architecture.  
-https://miro.medium.com/max/772/1*B7LkQDyDqLN3rRSrNYkETA.jpeg
+
+![Clean Architecture](https://miro.medium.com/max/772/1*B7LkQDyDqLN3rRSrNYkETA.jpeg) 
 
 # Directory
 Directory structre of api follows Standard Go Project Layout.  
